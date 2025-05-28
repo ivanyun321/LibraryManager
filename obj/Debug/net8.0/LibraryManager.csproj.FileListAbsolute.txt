@@ -1,0 +1,15 @@
+/Users/ivanyun/Desktop/LibraryManager/bin/Debug/net8.0/LibraryManager
+/Users/ivanyun/Desktop/LibraryManager/bin/Debug/net8.0/LibraryManager.deps.json
+/Users/ivanyun/Desktop/LibraryManager/bin/Debug/net8.0/LibraryManager.runtimeconfig.json
+/Users/ivanyun/Desktop/LibraryManager/bin/Debug/net8.0/LibraryManager.dll
+/Users/ivanyun/Desktop/LibraryManager/bin/Debug/net8.0/LibraryManager.pdb
+/Users/ivanyun/Desktop/LibraryManager/obj/Debug/net8.0/LibraryManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanyun/Desktop/LibraryManager/obj/Debug/net8.0/LibraryManager.AssemblyInfoInputs.cache
+/Users/ivanyun/Desktop/LibraryManager/obj/Debug/net8.0/LibraryManager.AssemblyInfo.cs
+/Users/ivanyun/Desktop/LibraryManager/obj/Debug/net8.0/LibraryManager.csproj.CoreCompileInputs.cache
+/Users/ivanyun/Desktop/LibraryManager/obj/Debug/net8.0/LibraryManager.sourcelink.json
+/Users/ivanyun/Desktop/LibraryManager/obj/Debug/net8.0/LibraryManager.dll
+/Users/ivanyun/Desktop/LibraryManager/obj/Debug/net8.0/refint/LibraryManager.dll
+/Users/ivanyun/Desktop/LibraryManager/obj/Debug/net8.0/LibraryManager.pdb
+/Users/ivanyun/Desktop/LibraryManager/obj/Debug/net8.0/LibraryManager.genruntimeconfig.cache
+/Users/ivanyun/Desktop/LibraryManager/obj/Debug/net8.0/ref/LibraryManager.dll
